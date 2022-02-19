@@ -16,3 +16,5 @@ Simple "virus" written in Python.
 1. Download Python from [Python's Website](https://www.python.org)
 2. Download the repository as .zip file (or copy the content of "HDD-Killer.py" file and create a new .py file in your deisred location)
 3. Open ComandPrompt (cmd) and write: ```python <Path to the HDD-Killer>```
+
+## Or even better: Run it [online](https://colab.research.google.com/drive/1VNkcj3b3Ft8TFMZXLCC96SeGCfAr2Pqw?usp=sharing)!
